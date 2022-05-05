@@ -1,0 +1,48 @@
+.signin {
+  padding-left: 2px;
+  margin-left: 1.5rem;
+  box-sizing: border-box;
+}
+
+.form-title {
+  margin: 15px 30px;
+  font-size: 34px;
+  padding: 8px;
+}
+
+.form-group {
+  margin: 10px 20px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.signin-form {
+  background-color: #eb47c7;
+  padding: 5px 20px 15px 20px;
+  border: 25px solid rgb(172, 212, 169);
+  border-radius: 7px;
+}
+
+.form-submit {
+  margin: 3px;
+  padding: 3px;
+  width: 200px;
+  background-color: rgb(250, 250, 250);
+  border-radius: 100px;
+}
+
+.form-submit:hover {
+   
+  background-color: rgb(26, 223, 213);
+   
+  box-shadow: 0 0.2rem 0.5rem rgba(184, 185, 181, 0.5);
+}
+
+.zmdi {
+  padding: 2px;
+  margin: 2px;
+}
+
+.register-link {
+  font-size: 20px;
+}
